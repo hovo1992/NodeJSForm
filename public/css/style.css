@@ -1,0 +1,12 @@
+body {
+    background-color: darkcyan;
+    color: darksalmon;
+    width: 70%;
+    margin:auto;
+}
+.block {
+    text-align: center;
+}
+ul.news {
+    float: left;
+}
